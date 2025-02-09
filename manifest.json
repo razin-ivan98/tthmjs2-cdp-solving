@@ -1,0 +1,8 @@
+{
+    "name": "TTHMJS_2",
+    "description": "TryToHackMyJavaScript2 CDP extenstion",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": { "default_popup": "index.html" },
+    "permissions": [ "tabs", "activeTab", "debugger" ]
+}
